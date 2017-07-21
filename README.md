@@ -1,2 +1,3 @@
 # hello_world
-My first repository
+Hi ordinary people.
+Rehman here,I'm a software engg at Feetapart and I like chocolates.
